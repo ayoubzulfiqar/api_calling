@@ -11,4 +11,4 @@ In this example shows all the http methods ( POST FETCH, PUT, DELETE) and how to
 ## Example
 
 ---
-![image](https://drive.google.com/uc?export=view&id=1W71iMDAbnonFOOc57QdM6wl06FawfCjK)
+![image](https://drive.google.com/uc?export=view&id=1W71iMDAbnonFOOc57QdM6wl06FawfCjK/view?usp=sharing)
